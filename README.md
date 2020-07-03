@@ -23,7 +23,7 @@
                 doi = {10.1109/TIP.2020.2976689},}
 
 # More of our work on RGB-D SOD
-   More of our work about RGBD SOD, please refer to [ECCV_2020_CMWNet](https://github.com/MathLee/CMWNet).
+   More of our work about RGB-D SOD, please refer to [ECCV_2020_CMWNet](https://github.com/MathLee/CMWNet).
 
 If you encounter any problems with the code, want to report bugs, etc.
 

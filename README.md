@@ -5,9 +5,9 @@
    ![Image](https://github.com/MathLee/ICNet-for-RGBD-SOD/blob/master/Images/Network_Overview_NEW.png)
    
 # Saliency maps and Measure results on 8 Datasets
-   We provide [saliency maps](https://pan.baidu.com/s/1Bkl7DYdt97orbQX66BufuQ) (提取码: bqvj) and [measure results](https://pan.baidu.com/s/1oUImRe0zRna0o3-_JLBlXQ) (提取码: r0b6) of our ICNet on 5 datasets (STEREO, NJU2K, LFSD, DES and NLPR).
+   We provide [saliency maps](https://pan.baidu.com/s/1Bkl7DYdt97orbQX66BufuQ) (code: bqvj) and [measure results](https://pan.baidu.com/s/1oUImRe0zRna0o3-_JLBlXQ) (code: r0b6) of our ICNet on 5 datasets (STEREO, NJU2K, LFSD, DES and NLPR).
    
-   We also provide [saliency maps & measure results](https://pan.baidu.com/s/1S6jRKISkwTELmrEm8QtZsA) (提取码: ujdp) of our ICNet on DUT-RGBD, SIP and SSD datasets.
+   We also provide [saliency maps & measure results](https://pan.baidu.com/s/1S6jRKISkwTELmrEm8QtZsA) (code: ujdp) of our ICNet on DUT-RGBD, SIP and SSD datasets.
    
    
 # Testing
@@ -25,7 +25,7 @@
                 doi = {10.1109/TIP.2020.2976689},}
 
 # More of our work on RGB-D SOD
-   More of our work about RGB-D SOD, please refer to [ECCV_2020_CMWNet](https://github.com/MathLee/CMWNet).
+   More of our work about RGB-D SOD, please refer to [**ECCV_2020_CMWNet**](https://github.com/MathLee/CMWNet).
 
 If you encounter any problems with the code, want to report bugs, etc.
 

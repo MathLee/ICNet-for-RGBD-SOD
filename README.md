@@ -1,7 +1,7 @@
 # ICNet-for-RGBD-SOD
    This project provides the codes and results for 'ICNet: Information Conversion Network for RGB-D Based Salient Object Detection', TIP 2020. [Paper link](https://ieeexplore.ieee.org/document/9024241).
    
-# ICNet Overview
+# Overview
    ![Image](https://github.com/MathLee/ICNet-for-RGBD-SOD/blob/master/Images/Network_Overview_NEW.png)
    
 # Saliency maps and Measure results on 8 Datasets

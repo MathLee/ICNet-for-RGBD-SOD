@@ -8,6 +8,8 @@
    We provide [saliency maps](https://pan.baidu.com/s/1Bkl7DYdt97orbQX66BufuQ) (code: bqvj) and [measure results](https://pan.baidu.com/s/1oUImRe0zRna0o3-_JLBlXQ) (code: r0b6) of our ICNet on 5 datasets (STEREO, NJU2K, LFSD, DES and NLPR).
    
    We also provide [saliency maps & measure results](https://pan.baidu.com/s/1S6jRKISkwTELmrEm8QtZsA) (code: ujdp) of our ICNet on DUT-RGBD, SIP and SSD datasets.
+   
+   You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
      
 # Testing
    The codes and models will come in soon.

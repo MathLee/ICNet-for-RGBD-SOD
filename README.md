@@ -1,5 +1,6 @@
 # ICNet-for-RGBD-SOD
    This project provides the codes and results for 'ICNet: Information Conversion Network for RGB-D Based Salient Object Detection', TIP 2020. [Paper link](https://ieeexplore.ieee.org/document/9024241).
+   Our code is implemented based on the Caffe of FlowNet2. You can first install and compile the caffe according to the [FlowNet2](https://github.com/lmb-freiburg/flownet2). 
    
 # Overview
    ![Image](https://github.com/MathLee/ICNet-for-RGBD-SOD/blob/master/Images/Network_Overview_NEW.png)
@@ -12,7 +13,11 @@
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
      
 # Testing
-   The codes and models will come in soon.
+1. `test_RGBD.prototxt/` is under `models/`.
+2. Download the [trained model](https://pan.baidu.com/s/1N9kvRjMqNwUL6K1cr8gIGA) (code: 6jz7) (`RGBD_iter_25000.caffemodel`), and put it under `models/`.
+3. The datasets are under `datasets/`, we provide some testing examples on DES dataset.
+4. Run `test_matlab/test_ICNet.m`.
+5. Saliency maps are saved under `salmaps/DES/`.
    
 # Related works on RGB-D SOD
    (**ECCV_2020_CMWNet**) [Cross-Modal Weighting Network for RGB-D Salient Object Detection](https://github.com/MathLee/CMWNet).

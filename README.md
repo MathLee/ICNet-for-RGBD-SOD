@@ -1,6 +1,7 @@
 # ICNet-for-RGBD-SOD
    This project provides the codes and results for 'ICNet: Information Conversion Network for RGB-D Based Salient Object Detection', TIP 2020. [Paper link](https://ieeexplore.ieee.org/document/9024241).
-   Our code is implemented based on the Caffe of FlowNet2. You can first install and compile the caffe according to the [FlowNet2](https://github.com/lmb-freiburg/flownet2). 
+   
+   Our code is implemented based on the Caffe of FlowNet2. You should first install and compile the caffe according to the [FlowNet2](https://github.com/lmb-freiburg/flownet2). 
    
 # Overview
    ![Image](https://github.com/MathLee/ICNet-for-RGBD-SOD/blob/master/Images/Network_Overview_NEW.png)

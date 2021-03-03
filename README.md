@@ -34,9 +34,7 @@
                 journal = {IEEE Transactions on Image Processing},
                 year = {2020},
                 volume = {29},
-                number = {},
-                pages = {4873-4884},
-                doi = {10.1109/TIP.2020.2976689},}
+                pages = {4873-4884},}
 
 If you encounter any problems with the code, want to report bugs, etc.
 

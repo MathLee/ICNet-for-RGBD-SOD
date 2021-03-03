@@ -21,6 +21,8 @@
 5. Saliency maps are saved under `salmaps/DES/`.
    
 # Related works on RGB-D SOD
+   (**TIP_2021_HAINet**) [Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection](https://github.com/MathLee/HAINet).
+   
    (**ECCV_2020_CMWNet**) [Cross-Modal Weighting Network for RGB-D Salient Object Detection](https://github.com/MathLee/CMWNet).
    
    (**Survey**) [RGB-D Salient Object Detection: A Survey](https://github.com/taozh2017/RGBD-SODsurvey).

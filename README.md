@@ -13,7 +13,7 @@
    
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
    
-   The parameters of our ICNet are 77.95M.
+   The number of parameters of our ICNet is 77.95M.
      
 # Testing
 1. `test_RGBD.prototxt/` is under `models/`.

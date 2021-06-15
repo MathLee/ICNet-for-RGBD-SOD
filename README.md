@@ -12,6 +12,8 @@
    We also provide [saliency maps & measure results](https://pan.baidu.com/s/1S6jRKISkwTELmrEm8QtZsA) (code: ujdp) of our ICNet on DUT-RGBD, SIP and SSD datasets.
    
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
+   
+   The parameters of our ICNet are 77.95M.
      
 # Testing
 1. `test_RGBD.prototxt/` is under `models/`.

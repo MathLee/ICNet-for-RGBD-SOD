@@ -13,9 +13,9 @@
    
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
    
-   The number of parameters of our ICNet is 77.95M.
+   The parameter amount of our ICNet is 77.95M.
    
-   The FLOPs of our CMWNet is 125.72G.
+   The FLOPs of our ICNet is 125.72G.
      
 # Testing
 1. `test_RGBD.prototxt/` is under `models/`.

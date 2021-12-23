@@ -21,8 +21,9 @@
 1. `test_RGBD.prototxt/` is under `models/`.
 2. Download the [trained model](https://pan.baidu.com/s/1N9kvRjMqNwUL6K1cr8gIGA) (code: 6jz7) (`RGBD_iter_25000.caffemodel`), and put it under `models/`.
 3. The datasets are under `datasets/`, we provide some testing examples on DES dataset.
-4. Run `test_matlab/test_ICNet.m`.
-5. Saliency maps are saved under `salmaps/DES/`.
+4. Download depth2HHA.zip and unzip it, run depth2HHA.m to convert depth map to HHA.
+5. Run `test_matlab/test_ICNet.m`.
+6. Saliency maps are saved under `salmaps/DES/`.
    
 # Related works on RGB-D SOD
    (**TIP_2021_HAINet**) [Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection](https://github.com/MathLee/HAINet).

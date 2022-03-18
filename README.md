@@ -11,7 +11,7 @@
    
    We also provide [saliency maps & measure results](https://pan.baidu.com/s/1S6jRKISkwTELmrEm8QtZsA) (code: ujdp) of our ICNet on DUT-RGBD, SIP and SSD datasets.
    
-   You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the result maps.
+   You can use the [evaluation tool](https://github.com/MathLee/MatlabEvaluationTools) to evaluate the result maps.
    
    The parameter amount of our ICNet is 77.95M.
    
